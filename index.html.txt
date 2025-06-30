@@ -1,0 +1,10 @@
+!DOCTYPE html>
+<html>
+  <head>
+    <title>Order Checker</title>
+  </head>
+  <body>
+    <h1>Order Checker is Working!</h1>
+    <p>This is just a placeholder page so Netlify has something to serve.</p>
+  </body>
+</html>
